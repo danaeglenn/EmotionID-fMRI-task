@@ -3,7 +3,7 @@ clear all; close all; clc;
 includeTriggers=1;
 
 % Lab filepath
-rootPath='C:\Users\KIND Lab\Desktop\EmotionID\';
+rootPath='C:\Users\KINDLab\Desktop\EmotionID\';
 
 % Scanner filepath
 %rootPath='C:\Users\CAN\KalinaM\EmotionID\';
